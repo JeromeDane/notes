@@ -7,21 +7,26 @@ If you have any suggestions for this list [ping me on twitter](https://twitter.c
 * [Tools](#tools)
 * [Patches/Fixes](#patches-fixes)
 * [User Interface](#user-interface)
-* [Graphics](#graphics)
 * [Gameplay](#gameplay)
+* [Quests](#quests)
+* [Graphics](#graphics)
 * [Character Enhancements](#character-enhancements)
 * [Cheats](#cheats)
 
 ## Tools
 
-* [Mod Organizer](https://www.nexusmods.com/skyrim/mods/1334/) `essential` - Not for beginners, but **the best** since it doesn't screw up your Skyrim folder. See [tutorial](https://www.youtube.com/watch?v=j4ZQpzf_iAE).
+* [Mod Organizer](https://www.nexusmods.com/skyrim/mods/1334/) `essential` - Not for beginners, but **the best** since it doesn't screw up your Skyrim folder. See this excellent [tutorial](https://www.youtube.com/watch?v=j4ZQpzf_iAE) for details of why you want this.
 * [Skyrim Script Extender (SKSE)](http://skse.silverlock.org/) `essential` - Required for many of the best mods
+* [NO STARTING LOGO](https://www.nexusmods.com/skyrim/mods/51511/) `essential` - Skip the Bathesda logo on game start. You know who made the game.
 
 ## Patches/Fixes
 
 * [Unofficial Skyrim Legendary Edition Patch](https://www.nexusmods.com/skyrim/mods/71214/) `essential` - Fix things Bathesda missed
 * [OneTweak](https://www.nexusmods.com/skyrim/mods/40706/) `essential` - fixes/tweaks in an all-in-one package
 * [Crash Fixes](https://www.nexusmods.com/skyrim/mods/72725/) `essential`
+* [Safefty Load](https://www.nexusmods.com/skyrim/mods/46465/) `esential` - Fixes "Infinite Loading Screen" bug and game freezing during play
+* [Fix Lip Sync](https://www.nexusmods.com/skyrim/mods/75951/)
+* [Skyrim Project Optimization](https://www.nexusmods.com/skyrim/mods/32505/) - Imrpoved performance when using taxing mods
 
 ## User Interface
 
@@ -36,23 +41,45 @@ If you have any suggestions for this list [ping me on twitter](https://twitter.c
 
 ## Gameplay
 
+* [Face to Face conversations](https://www.nexusmods.com/skyrim/mods/30533/) - Zoom to NPCs in 1st person perspective when you talk to them
+* [VioLens](https://www.nexusmods.com/skyrim/mods/56980/) - Great kill moves with controll through in-game mod control menu
+* [Ultimatet Combat](https://www.nexusmods.com/skyrim/mods/36006/) - "Enhanced game enjoyment and ease of play"
+* [Dual Wielding Animations](https://www.nexusmods.com/skyrim/mods/14915/)
 * [Archery Gameplay Overhaul](https://www.nexusmods.com/skyrim/mods/69033/) `essential`
-* [https://www.nexusmods.com/skyrim/mods/74355/?](https://www.nexusmods.com/skyrim/mods/74355/) - Stealth mechanics overhaul
+* [Auto Unequip Ammo](https://www.nexusmods.com/skyrim/mods/10753/) `nlf` - Remove quivers when tou switch to mele weapons 
+* [Stealth mechanics overhaul](https://www.nexusmods.com/skyrim/mods/74355/)
+* [Alternate Start - Live Another Life](https://www.nexusmods.com/skyrim/mods/9557/) - Choose a new background and start for your character
+* [Midas Magic Evolved](https://www.nexusmods.com/skyrim/mods/35506/) - Tons of new spells
+* [Skyrim Enhanced Camera](https://www.nexusmods.com/skyrim/mods/57859/)
+* [More Bandid Camps](https://www.nexusmods.com/skyrim/mods/27574/)
+
+## Quests
+
+* [Helgen Reborn](https://www.nexusmods.com/skyrim/mods/35841/)
+* [Dark Brotherhood Reborn - Dawnstar Sanctuary](https://www.nexusmods.com/skyrim/mods/20700/)
 
 ## Graphics
 
+* [Wet and Cold](https://www.nexusmods.com/skyrim/mods/27563/) `essential` - Water drips from you when you get out, and see frost on your armor.
+* [Pure Waters](https://www.nexusmods.com/skyrim/mods/1111/) - Water that actually looks like water
+* [Lanterns of Skyrim](https://www.nexusmods.com/skyrim/mods/18916/) - Add lanterns to many locations ini a lore friendly way
 * [Static Mesh Improvement Mod - SMIM](https://www.nexusmods.com/skyrim/mods/8655/) `essential` - Higer polygon counts all around
 * [Ruins Clutter Improved](https://www.nexusmods.com/skyrim/mods/14227/) `taxing`
 * [RealVision END](https://www.nexusmods.com/skyrim/mods/30936/) `taxing` - Modernize graphics with shaders and lighting
 * [NobleSkyrimMod HD-2K](https://www.nexusmods.com/skyrim/mods/45807/) `taxing` - Great high-res textures for modern PCs
-* [Immersive Roads](https://www.nexusmods.com/skyrim/mods/40245/) `taxing` - More realistic road textures and effects
+* [Immersive Roads](https://www.nexusmods.com/skyrim/mods/40245/) `taxing` - More rcealistic road textures and effects
 * [Ultimate HD Fire Effects](https://www.nexusmods.com/skyrim/mods/28642/) `taxing`
 
 ## Character Enhancements
 
+* [XP32 Maximum Skeleton Extended - XPMSE](https://www.nexusmods.com/skyrim/mods/68000/) - Allows for better animations with FNIS
+* [Realistic Animation Project - Movement](https://www.nexusmods.com/skyrim/mods/77343/)
+* [Realistic Animation Project - Idles](https://www.nexusmods.com/skyrim/mods/76862/)
+* [Play Random Idle](https://www.nexusmods.com/skyrim/mods/52298/) - Randomized idle a nimations
 * [DIMONIZED UNP female body](https://www.nexusmods.com/skyrim/mods/6709/) `nsfw` - Female bodies and skin textures that look real without being rediculous
 * [Better Males](https://www.nexusmods.com/skyrim/mods/2488/) `nsfw` - More realistic male bodies and textures that don't turn them all into Fabio
 * [The Eyed of Beauty](https://www.nexusmods.com/skyrim/mods/13722/) - Realistic eyes
+* [KS Hairdos - HDT Physics](https://www.nexusmods.com/skyrim/mods/70363/) - Hair that moves with your character
 * [Ultimate NPC Overhaul II](https://www.nexusmods.com/skyrim/mods/76658/) - Realistic(ish) adult NPCs
 * [The Kids are Alright](https://www.nexusmods.com/skyrim/mods/83009/) - Slightly less terrifying child NPCs
 
@@ -72,4 +99,5 @@ If you have male swaps to suggest please [let me know](https://twitter.com/Jerom
 * [Helmet Toggle](https://www.nexusmods.com/skyrim/mods/22765/) - Great if you want to see your character's head but still want the armor/stat bonus from headdgear.
 * [Dangerous Spell Comments Removed](https://www.nexusmods.com/skyrim/mods/57302/) `nlf` - Don't tell me to put my spells away!
 * [Sneak at Run Spead](https://www.nexusmods.com/skyrim/mods/54049/) `nlf` - For stealth character runs that don't take twice as long to play.
-
+* [No Friendly Fire Reborn](https://www.nexusmods.com/skyrim/mods/84949/) `nlf` - Don't hurt your allies
+* [Follower Trap Safety](https://www.nexusmods.com/skyrim/mods/11609/) `nlf` - Followers don't trigger traps
