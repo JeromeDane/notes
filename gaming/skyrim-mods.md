@@ -18,6 +18,7 @@ If you have any suggestions for this list [ping me on twitter](https://twitter.c
 * [Mod Organizer](https://www.nexusmods.com/skyrim/mods/1334/) `essential` - Not for beginners, but **the best** since it doesn't screw up your Skyrim folder. See this excellent [tutorial](https://www.youtube.com/watch?v=j4ZQpzf_iAE) for details of why you want this.
 * [Skyrim Script Extender (SKSE)](http://skse.silverlock.org/) `essential` - Required for many of the best mods
 * [NO STARTING LOGO](https://www.nexusmods.com/skyrim/mods/51511/) `essential` - Skip the Bathesda logo on game start. You know who made the game.
+* [Fores New Idles in Skyrim - FNIS](https://www.nexusmods.com/skyrim/mods/27644/) - Load improved/new animations. See [tutorial for use with Mod Organizer](https://www.youtube.com/watch?v=VpOuGN-yr6E)
 
 ## Patches/Fixes
 
@@ -57,6 +58,12 @@ If you have any suggestions for this list [ping me on twitter](https://twitter.c
 
 * [Helgen Reborn](https://www.nexusmods.com/skyrim/mods/35841/)
 * [Dark Brotherhood Reborn - Dawnstar Sanctuary](https://www.nexusmods.com/skyrim/mods/20700/)
+
+## Items
+
+* [Unique Uniques](https://www.nexusmods.com/skyrim/mods/33292/) - Makes unique weapons actually special
+* [Unique Bows Collection](https://www.nexusmods.com/skyrim/mods/32405/)
+* [Immersive Weapons](https://www.nexusmods.com/skyrim/mods/27644/)
 
 ## Graphics
 
